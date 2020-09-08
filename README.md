@@ -1,4 +1,7 @@
 # Chip8-Emulator
+
+![Emulator Preview](preview.png)
+
 Chip8 emulator using Python and Pygame
 
 Just a learning experiment, no special features.
