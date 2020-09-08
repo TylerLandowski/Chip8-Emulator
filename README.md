@@ -1,6 +1,6 @@
 # Chip8-Emulator
 
-![Emulator Preview](preview.png)
+![Emulator Preview](./preview.PNG)
 
 Chip8 emulator using Python and Pygame
 
